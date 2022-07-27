@@ -1,1 +1,1 @@
-# Usos de Redux Toolki y RTK Query.
+# Usos de Redux Toolkit y RTK Query.
